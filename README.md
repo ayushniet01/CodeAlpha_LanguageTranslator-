@@ -53,7 +53,8 @@ Through this project, I gained practical experience in:
 **Ayush Kumar Singh**
 
 AI & Web Development Intern
-Github:
+
+GitHub:
 https://github.com/ayushniet01
 
 LinkedIn: https://www.linkedin.com/in/singhayush02
