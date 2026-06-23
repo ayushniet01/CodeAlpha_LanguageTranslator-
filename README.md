@@ -50,7 +50,7 @@ Through this project, I gained practical experience in:
 
 ## 👨‍💻 Author
 
-**Gyaneshwar Dixit**
+**Ayush Kumar Singh**
 
 AI & Web Development https://github.com/ayushniet01
 
